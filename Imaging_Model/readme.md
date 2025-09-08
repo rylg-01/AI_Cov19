@@ -7,7 +7,7 @@ The model integrates medical image preprocessing and stratified cross-validation
 
 Requirements
 
-Python 3.8+
+Python 3.8+;
 PyTorch
 timm
 torchxrayvision
