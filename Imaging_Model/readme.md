@@ -5,24 +5,15 @@ This repository contains code for training and evaluating a Swin Transformer–b
 The model integrates medical image preprocessing and stratified cross-validation,to evaluate the predictive power of deep learning in clinical outcome prediction.
 
 
-Requirements
+## Requirements
 
--Python 3.8+
-
--PyTorch
-
--timm
-
--torchxrayvision
-
--scikit-learn
-
--lifelines
-
--OpenCV
-
--matplotlib
-
--scikit-image
-
--nibabel
+- Python 3.8+  
+- PyTorch  
+- timm  
+- torchxrayvision  
+- scikit-learn  
+- lifelines  
+- OpenCV  
+- matplotlib  
+- scikit-image  
+- nibabel  
